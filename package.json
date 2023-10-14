@@ -1,0 +1,15 @@
+{
+  "name": "youtube-summarizer",
+  "version": "0.0.0",
+  "license": "ISC",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "langchain": "^0.0.160",
+    "youtube-transcript": "^1.0.6",
+    "youtubei.js": "^6.4.1"
+  }
+}
